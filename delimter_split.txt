@@ -1,0 +1,11 @@
+#Splitting #column by #delimiter can be tricky. 
+In this example, dash was the delimiter but its occurrences in the data demands some understanding of the naming convention in the dataset. 
+To solve this in Power Query, there is an option of Right-most Delimiter that does justice to this type of #data #cleaning.
+
+Also note that the data is a fictitious data.
+If you find it useful, kindly #follow, #like, #share and #comment 
+#Tool: #Microsopt PowerBI
+#LinkedIn: https://lnkd.in/dJzSUWQF
+#Twitter: https://lnkd.in/dfPx-c3a
+
+#microsoftazure #microsoftpowerbi #microsoft #googleanalytics #dataanalytics #datacamp #dataarchitect

@@ -1,0 +1,14 @@
+#How to insert Data Preview in #Power #Query.
+
+A question popped up from my last post on how to insert data preview and I thought to share this here. 
+Data preview helps to see hidden overview on your data before doing any analysis. 
+There are several data preview items I love to use; Column Profile, Column Distribution and Column quality.
+Funny enough most people don’t really use these features. This is because they are deactivated by default.
+The whole reason why these features exist is to make your life easier working with Power Query.
+Also note that the data is a fictitious data.
+If you find it useful, kindly #follow, #like, #share and #comment 
+#Tool: #Microsopt PowerBI
+#LinkedIn: https://lnkd.in/dJzSUWQF
+#Twitter: https://lnkd.in/dfPx-c3a
+
+#microsoftazure #microsoftpowerbi #microsoft #googleanalytics #dataanalytics #datacamp #dataarchitect

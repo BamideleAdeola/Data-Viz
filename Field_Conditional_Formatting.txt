@@ -1,0 +1,24 @@
+#Field Conditional #formating with #SWITCH TRUE function
+A field conditional formatting allows you to use another column to format the content of another column. 
+Assuming we intend to use the content of a background colour created with a SWITCH TRUE Function, we can use field (column) conditional formatting to achieve this 
+
+Here is the code for the colour column for those that missed it.
+Status Colour Code = SWITCH(
+    TRUE(),
+[Deal_Status] = "Ongoing", "#CEB629",           //  Yellow/Amber
+[Deal_Status] = "Closed Won", "#51B74B",        // Green
+[Deal_Status] = "Closed Lost",  "#E04646",      // Red
+[Deal_Status] = "Deprioritized", "#B3B3B3"      // Grey
+)
+
+In this example, I created a table with account_name and Deal_status. 
+The intention is to format deal status background with the Status_Colour_Code I created based on my business case. 
+
+
+Also note that the data is a fictitious data.
+If you find it useful, kindly #follow, #like, #share and #comment 
+#Tool: #Microsopt #PowerBI
+#LinkedIn: https://lnkd.in/dJzSUWQF
+#Twitter: https://lnkd.in/dfPx-c3a
+
+#microsoftazure #microsoftpowerbi #microsoft #googleanalytics #dataanalytics #datacamp #dataarchitect

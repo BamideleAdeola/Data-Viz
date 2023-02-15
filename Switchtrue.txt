@@ -1,0 +1,22 @@
+#How to Use #SWITCH TRUE function
+
+SWITCH TRUE function helps to reduce the complexities of Nested IFs Statement. 
+This works like a case statement of #SQL.
+
+Status Colour Code = SWITCH(
+    TRUE(),
+[Deal_Status] = "Ongoing", "#CEB629",           //  Yellow/Amber
+[Deal_Status] = "Closed Won", "#51B74B",        // Green
+[Deal_Status] = "Closed Lost",  "#E04646",      // Red
+[Deal_Status] = "Deprioritized", "#B3B3B3"      // Grey
+)
+
+Next post would be how to insert the color codes into a table visual
+
+Also note that the data is a fictitious data.
+If you find it useful, kindly #follow, #like, #share and #comment 
+#Tool: #Microsopt #PowerBI
+#LinkedIn: https://lnkd.in/dJzSUWQF
+#Twitter: https://lnkd.in/dfPx-c3a
+
+#microsoftazure #microsoftpowerbi #microsoft #googleanalytics #dataanalytics #datacamp #dataarchitect

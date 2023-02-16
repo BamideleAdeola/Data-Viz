@@ -1,0 +1,14 @@
+#Conditional #formatting based on #string #fields
+
+Much awaited conditional formatting based on string fields is out. Instead of writing a SWITCH TRUE function to get my colour codes, 
+I can just do a conditional formatting directly based on the field.
+
+Looking forward to your comment on this.
+
+Also note that the data is a fictitious data.
+If you find it useful, kindly #follow, #like, #share and #comment 
+#Tool: #Microsopt #PowerBI
+#LinkedIn: https://lnkd.in/dJzSUWQF
+#Twitter: https://lnkd.in/dfPx-c3a
+
+#microsoftazure #microsoftpowerbi #microsoft #googleanalytics #dataanalytics #datacamp #dataarchitect

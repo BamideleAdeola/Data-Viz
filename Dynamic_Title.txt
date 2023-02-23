@@ -1,0 +1,13 @@
+#Dynamic #Title in #Power #BI
+
+Have you ever wondered how to #dynamically change your #chart, #table, or #visualization title in #Power BI?
+This happens if you intend to change the title based on the filters applied.
+Here, you can use the #SELECTEDVALUE #DAX #Function to achieve this. Then use conditional format to select the title of the chart. 
+Please refer to the screenshots
+Also note that the data is a fictitious data.
+If you find it useful, kindly #follow, #like, #share and #comment 
+#Tool: #Microsopt #PowerBI
+#LinkedIn: https://lnkd.in/dJzSUWQF
+#Twitter: https://lnkd.in/dfPx-c3a
+
+#microsoftazure #microsoftpowerbi #microsoft #googleanalytics #dataanalytics #datacamp #dataarchitect

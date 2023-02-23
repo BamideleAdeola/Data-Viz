@@ -1,0 +1,15 @@
+#Converting #Image #URL to Image and Changing the #image #size in #Power #BI
+
+Have you ever wondered how to convert your image url into an image in a table visuals of #Power #BI?
+Just change the data category of the url to image url under column tools tab and that solves the issue. 
+However, February 2022 update of Power BI gives flexibility as to how to change the size of the image width and Height. 
+Hence, you don't need to manually adjust image size. I decided to change my size to Height 100px and width 100px.
+
+I got the data from data.world. 
+You can also download the data here https://github.com/BamideleAdeola/Data-Viz/blob/main/Countries_code_flags.csv
+This might be useful to someone, kindly #like, #share, #comment and #follow. 
+#Tool: #Microsopt #PowerBI
+#LinkedIn: https://lnkd.in/dJzSUWQF
+#Twitter: https://lnkd.in/dfPx-c3a
+
+#microsoftazure #microsoftpowerbi #microsoft #googleanalytics #dataanalytics #datacamp #dataarchitect

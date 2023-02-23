@@ -1,4 +1,4 @@
-#Conditional #formatting based on #string #fields
+#Conditional #formatting based on #string #fields (#PowerBI #February 2022 update)
 
 Much awaited conditional formatting based on string fields is out. Instead of writing a SWITCH TRUE function to get my colour codes, 
 I can just do a conditional formatting directly based on the field.

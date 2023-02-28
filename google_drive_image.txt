@@ -1,0 +1,18 @@
+#Google #drive image in #Power #BI
+
+Have you ever wondered how to display your #google drive image on a power BI table, then this post is for you. 
+It is not so straight forward because Power BI expects a jpg, pjeg, svc, etc. 
+
+Here are the steps: 
+1. Grant access to the image so that anyone with the link can view the image. 
+2. Copy the Url or the image id after d and before view from the url you copied. 
+3. Add the image id to https://drive.google.com/uc?id=
+4. Create a table in powerbi and convert data category to Image url.
+
+How will you solve this issue should you intend to pull your image to power bi?
+
+This might be useful to someone, kindly #like, #share, #comment and #follow. 
+#Tool: #Microsopt #PowerBI
+#LinkedIn: https://lnkd.in/dJzSUWQF
+#Twitter: https://lnkd.in/dfPx-c3a
+#microsoftazure #microsoftpowerbi #microsoft #googleanalytics #dataanalytics #datacamp #dataarchitect

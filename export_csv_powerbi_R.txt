@@ -1,0 +1,26 @@
+#Automatic #Export of #data from #Power BI to #CSV
+
+Do you intend to export data for further analysis at every time of data refresh? 
+R within #power #query can come handy here. 
+
+Steps
+1. Install R on your system 
+2. Run R-Script to export the data.
+3. Publish to power bi service
+4. Set up privacy level within power bi service data source to public
+5. Configure data gateway (personal gateway for local files)
+6. Set up Schedule refresh
+
+For me I am running the below R-Script:
+write.csv(dataset, file = "C:/Users/User/Desktop/Data/PowerBI_Export/countriesdata.csv").
+This contains the folder path of where to save the exported data and the intended name in csv.
+
+NOTE: The exported #data only includes #power #query #cleaned or #transformed data not #DAX within power bi #desktop. 
+Hence, you have pulled data from several sources, merged and transformed the data, you can export its transform state at regular interval.
+
+Power automate can also be used to achieve this.
+This might be useful to someone, kindly #like, #share, #comment and #follow. 
+#Tool: #Microsopt #PowerBI
+#LinkedIn: https://lnkd.in/dJzSUWQF
+#Twitter: https://lnkd.in/dfPx-c3a
+#microsoftazure #microsoftpowerbi #microsoft #googleanalytics #dataanalytics #datacamp #dataarchitect

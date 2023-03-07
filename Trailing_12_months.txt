@@ -1,0 +1,24 @@
+#Calculating #Trailing 12 #Month (TTM)
+
+One of the requests I get frequently from our #finance #clients is Trailing Twelve Month (TTM). 
+Imagine you intend to look at a #company's past 12 years performance which is not tied to the compnay's Fiscal Year.
+Of all the approaches to solving this issue, using DATESINPERIOD was my best approach. 
+Please always try to use a #Date #Table when working with Time intelligence functions.
+
+Trailing_12_Month = 
+CALCULATE(
+    [Total_Sales], 
+    DATESINPERIOD(CalendarDate[Date], MAX(CalendarDate[Date]), -12, MONTH)
+)
+
+Note: You could use several ways (#DATESBETWEEN, etc) to achieve same result.  
+
+I hope someone that needs this sees it, kindly #like, #share, #comment and #follow. 
+	
+#Tool: #Microsopt #PowerBI
+
+#LinkedIn: https://lnkd.in/dJzSUWQF
+
+#Twitter: https://lnkd.in/dfPx-c3a
+
+#microsoftazure #microsoftpowerbi #microsoft #googleanalytics #dataanalytics #datacamp #dataarchitect

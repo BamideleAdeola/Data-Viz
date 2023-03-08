@@ -1,0 +1,30 @@
+#Setting up #Row-Level #Security (RLS) in #PowerBI Desktop (#Enhance row-Level security) 
+
+Do you intend to restrict data access for given users? 
+I have used it on several occasions to filter who sees what considering I have like 6 companies within a group.
+Howeevr, you need to note the following:
+1. You can configure RLS for data models imported into Power BI with Power BI Desktop. 
+2. You can also configure RLS on datasets that are using DirectQuery, such as SQL Server. 
+3. For Analysis Services or Azure Analysis Services lives connections, you configure Row-level security in the model, not in Power BI Desktop. 
+4. The security option will not show up for live connection datasets.
+
+In February 2022 update of powerbi, it became more user friendly as you do not need to write any DAX formular anymore.
+Just enable the features (#Enhance row-Level security) from Options and settings.
+
+#USE #CASE
+a. Willing to have a row-level security for regional sales manager. 
+b. You can only be a sales manager for just one region at a time.
+c. Also, I intend building a single report which will be shared to all sales managers with a row-level security that enables each managers to see only their regional data.
+
+What other business case do you use row-level security for?
+
+Note: You will still have to set it up Power BI Service.
+
+This might be useful to someone, kindly #like, #share, #comment and #follow. 
+#Tool: #Microsopt #PowerBI
+
+#LinkedIn: https://lnkd.in/dJzSUWQF
+
+#Twitter: https://lnkd.in/dfPx-c3a
+
+#microsoftazure #microsoftpowerbi #microsoft #googleanalytics #dataanalytics #datacamp #dataarchitect

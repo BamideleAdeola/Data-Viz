@@ -1,0 +1,18 @@
+#Changing #themes in #power BI Desktop
+
+Have you ever worked on updating themes in power bi? 
+This gives you access to format your report at once without individual pages customization.
+With February 2022 power BI update, you can now easily update your base theme seamlessly. 
+
+USE CASE
+A client gave me some of their colour, font size, (themes). 
+With themes customization, this can be achieved. 
+
+This might be useful to someone, kindly #like, #share, #comment and #follow. 
+#Tool: #Microsopt #PowerBI
+
+#LinkedIn: https://lnkd.in/dJzSUWQF
+
+#Twitter: https://lnkd.in/dfPx-c3a
+
+#microsoftazure #microsoftpowerbi #microsoft #googleanalytics #dataanalytics #datacamp #dataarchitect

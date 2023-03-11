@@ -1,0 +1,14 @@
+#Textbox #visual #Indentation
+
+Have you wondered how you can indent (Increase or decrease) your text visual in Power BI? 
+
+With February update, this is now possible.
+
+You can also use the Tab or Shift+Tab keys to accomplish the same.
+
+Tab 		- Increase indent
+Shift+Tab 	- Decrease indent
+
+Kindly #like, #comment and #share
+
+#PowerBi #visualization #Microsoft #Dataanalytics #

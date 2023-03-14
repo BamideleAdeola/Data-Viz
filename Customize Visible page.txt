@@ -1,0 +1,16 @@
+#Customize #visible #pages in #PowerBI
+
+Initially when Page navigator was introduced into power bi desktop, all pages becomes a button whether hidden or not. 
+
+Today, you can now specify whether to show or hide hidden page. 
+
+This saves me a lot of effort and time creating page navigations.
+
+Thanks to #Power #BI #February Update
+
+If you find it useful, kindly #follow, #like, #share and #comment 
+#Tool: #Microsopt PowerBI
+#LinkedIn: https://lnkd.in/dJzSUWQF
+#Twitter: https://lnkd.in/dfPx-c3a
+
+#microsoftazure #microsoftpowerbi #microsoft #googleanalytics #dataanalytics #datacamp #dataarchitect #powerquery

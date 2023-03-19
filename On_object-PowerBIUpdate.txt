@@ -1,0 +1,18 @@
+#On-Object interactions with #visualization in #PowerBI
+
+Have you ever tried the On-object interaction on PowerBI yet? 
+Super cool update from Microsoft. Just like our native office #formatting visuals on visuals themselves. 
+- change visualization type
+- format text
+- add fields, etc.
+
+I am excited at this updated but you might have to turn on the preview features and restart your powerbi desktop to make it work.
+
+Thanks to #Power #BI #March Update
+
+If you find it useful, kindly #follow, #like, #share and #comment 
+#Tool: #Microsopt PowerBI
+#LinkedIn: https://lnkd.in/dJzSUWQF
+#Twitter: https://lnkd.in/dfPx-c3a
+
+#microsoftazure #microsoftpowerbi #microsoft #googleanalytics #dataanalytics #datacamp #dataarchitect #powerquery

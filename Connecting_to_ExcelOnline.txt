@@ -1,0 +1,24 @@
+#Connecting to #Excel #Online or on SharePoint
+
+Did you have your excel data on a #SharePoint or #OneDrive? 
+Do you know storing your excel data on a SharePoint site or OneDrive makes the excel file a cloud storage?
+Hence, what is the best approach to pulling excel file on SharePoint into power bi? 
+
+Here are the steps: 
+1. Open the excel file from SharePoint in desktop app
+2. Copy the file path (click file>info>copy path)
+3. On power bi use web data source
+4. Paste the url and delete ?web=1 from the url.
+5. Click ok and sleuth your data
+
+You can schedule refresh on Power Bi service automatically without refreshing the data on the power bi desktop and it picks any update because you are now dealing with a cloud data source.
+
+If you find it useful, kindly #follow, #like, #share and #comment. 
+
+#Tool: #Microsopt PowerBL
+
+#LinkedIn: https://lnkd.in/dJzSUWQF
+
+#Twitter: https://lnkd.in/dfPx-c3a
+
+#microsoftazure #microsoftpowerbi #microsoft #googleanalytics #dataanalytics #datacamp #dataarchitect #powerquery

@@ -1,0 +1,17 @@
+#Power #Automate and #Power #BI
+
+As a data specialist, please do not forget to automate your process. 
+A client used Microsoft Form to create a survey and request that it be automated as an excel file on #OneDrive for #Business. 
+What I did: 
+1. Export the data and save it on a OneDrive
+2. Create a Power Automate flow to update the rows anytime there is a response on the form
+3. Get Response id
+4. Add a row into the saved table (excel) - You can select only useful fields from the response id.
+5. Test the flow and save it.
+
+If you find it useful, kindly #follow, #like, #share and #comment 
+#Tool: #Microsopt PowerBI
+#LinkedIn: https://lnkd.in/dJzSUWQF
+#Twitter: https://lnkd.in/dfPx-c3a
+
+#microsoftazure #microsoftpowerbi #microsoft #googleanalytics #dataanalytics #datacamp #dataarchitect #powerquery

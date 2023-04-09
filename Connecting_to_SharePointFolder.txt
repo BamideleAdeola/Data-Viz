@@ -1,0 +1,23 @@
+#Connecting PowerBI to #SharePoint Folder
+
+At times, you might have a document that comes in monthly saved in a sharepoint folder. 
+While there are several ways to access the contents of a folder, I find using SharePoint.Contents very useful.
+
+Follow these steps: 
+1. Copy the site Url of the SharePoint List. (You can just copy the logo at the top left of the SharePoint List)
+2. Connect to SharePoint Folder from Power BI Get Data and Paste the site url
+4. Authenticate with your Microsoft Account if it is your first time connecting.
+5. You can change the SharePoint.Files function to SharePoint.Contents
+6. Expand Shared Folder table
+
+SharePoint is a cloud data source, hence one can schedule refresh automatically.
+Have you connected to SharePoint as a datasource before? If yes, did you do anything differently? 
+If you find it useful, kindly #follow, #like, #share and #comment. 
+
+#Tool: #Microsopt PowerBL
+
+#LinkedIn: https://lnkd.in/dJzSUWQF
+
+#Twitter: https://lnkd.in/dfPx-c3a
+
+#microsoftazure #microsoftpowerbi #microsoft #googleanalytics #dataanalytics #datacamp #dataarchitect #powerquery

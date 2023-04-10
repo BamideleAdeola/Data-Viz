@@ -1,0 +1,24 @@
+#Connecting PowerBI to #SharePoint List
+
+Ever connected to a SharePoint List as a data source in #Power BI? 
+Yes, I do that very often seeing that some cool power apps application I have seen had SharePoint List as their data source. 
+This post is to help those willing to connect SharePoint List to Power BI.
+
+Follow these steps: 
+1. Copy the site Url of the SharePoint List. (You can just copy the logo at the top left of the SharePoint List)
+2. Search for SharePoint Online on Power BI Get data
+3. Paste the site url
+4. Authenticate with your Microsoft Account.
+5. Navigate to your SharePoint List
+
+SharePoint is a cloud data source, hence one can schedule refresh automatically.
+Have you connected to SharePoint as a datasource before? If yes, did you do anything differently? 
+If you find it useful, kindly #follow, #like, #share and #comment. 
+
+#Tool: #Microsopt PowerBL
+
+#LinkedIn: https://lnkd.in/dJzSUWQF
+
+#Twitter: https://lnkd.in/dfPx-c3a
+
+#microsoftazure #microsoftpowerbi #microsoft #googleanalytics #dataanalytics #datacamp #dataarchitect #powerquery

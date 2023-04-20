@@ -1,0 +1,14 @@
+#Summing Groups of Every #N #Values in a #Row in #Excel
+
+As a data specialist, I still love #Excel.  Summing a group of N row can be resolved with #OFFSET #Function. I have a dataset with 120 rows of data and the challenge was to sum it up in 10 consecutive rows. 
+You don't have to do it manually. Using SUM, OFFSET, ROW function can do the trick. 
+
+If you find it useful, kindly #follow, #like, #share and #comment. 
+
+#Tool: #Microsoft #Excel
+
+#LinkedIn: https://lnkd.in/dJzSUWQF
+
+#Twitter: https://lnkd.in/dfPx-c3a
+
+#MicrosoftExcel #microsoftazure #microsoftpowerbi #microsoft #googleanalytics #dataanalytics #datacamp #dataarchitect #powerquery

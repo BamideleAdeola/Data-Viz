@@ -1,0 +1,19 @@
+Percent Total using #ALL and #ALLSELECTED #DAX #Function
+
+Depending on your business use case, ALL and ALLSELECTED could be used as a percent total measure. 
+However, it is paramount one knows how they both work in a table. 
+
+Since #ALL Return the table or column with filters removed, irrespective of the filter context, the measure still takes the exact total to divide. 
+From the screenshot, filtering for just Central and East returns the Central and East against the total or ground total.
+
+However, if the business objective is to find the percentage based on what is selected (Central and East), then #ALLSELLECTED should be used in this instance.
+
+If you find it useful, kindly #follow, #like, #share and #comment. 
+
+#Tool: #Microsoft #PowerBI
+
+#LinkedIn: https://lnkd.in/dJzSUWQF
+
+#Twitter: https://lnkd.in/dfPx-c3a
+
+#MicrosoftExcel #microsoftazure #microsoftpowerbi #microsoft #googleanalytics #dataanalytics #datacamp #dataarchitect #powerquery

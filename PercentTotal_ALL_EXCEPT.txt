@@ -1,0 +1,17 @@
+Percent Total using #ALLEXCEPT #DAX #Function
+
+Initially, the ALLEXCEPT Function measure seems to return a similar value with the total sales measure. 
+Hmmm. One can only tell with a practical table and context understanding. 
+For #ALLExcept, all context filters in the table are removed except those that are applied to the chosen columns. 
+And the chosen column in this quick demo is the Product Category.
+This is a handy shortcut for cases where you wish to remove the filters from many, but not all, of the columns in a table.
+
+If you find it useful, kindly #follow, #like, #share and #comment. 
+
+#Tool: #Microsoft #PowerBI
+
+#LinkedIn: https://lnkd.in/dJzSUWQF
+
+#Twitter: https://lnkd.in/dfPx-c3a
+
+#MicrosoftExcel #microsoftazure #microsoftpowerbi #microsoft #googleanalytics #dataanalytics #datacamp #dataarchitect #powerquery

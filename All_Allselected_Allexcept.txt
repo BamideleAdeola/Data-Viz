@@ -1,0 +1,20 @@
+Understanding #All, #Allselected and #Allexcept #DAX #Function
+
+As a PowerBI developer or data specialist, you need to understand row and filter context.
+#ALL - Return the table or column with filters removed.
+#ALLSELECTED- Returns all the rows in a table or all the values in a column, ignoring any filters which might have been applied on the columns or the rows but keeping all other explicit filters.
+#ALLEXCEPT- Removes all context filters in the table except filters that have been applied to the specified columns.
+
+ALL - Returned a total of 1,924,337.88 even when Central, East and South were selected or filtered. This implies that filtered were totally removed.
+ALLSELECTED -  Returned a total of 1,397,561.31 for the 3 selections. This only summed up to the 3 selected Regions.
+ALLEXCEPT - Removed other filters except filter on Region based on the measure. 
+
+If you find it useful, kindly #follow, #like, #share and #comment. 
+
+#Tool: #Microsoft #PowerBI
+
+#LinkedIn: https://lnkd.in/dJzSUWQF
+
+#Twitter: https://lnkd.in/dfPx-c3a
+
+#MicrosoftExcel #microsoftazure #microsoftpowerbi #microsoft #googleanalytics #dataanalytics #datacamp #dataarchitect #powerquery

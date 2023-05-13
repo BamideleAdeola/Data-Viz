@@ -1,0 +1,35 @@
+Calculating #Sales for #Profitable Months
+
+The first step to writing a good measure is understanding the request and knowing what #DAX #Function to use.
+
+Imagine you have the intention to calculate sales, but only for months that have achieved a profit and those that achieved a loss separately.
+
+Some restrictions of Boolean expression when used as a filter arguments are: 
+a. You can't reference columns from multiple tables
+b. A measure can't be referenced
+c. Using a nested Calculate function is not possible
+d. You can't use a functions that scan or return a table
+
+Hence, table expression is best suitable for more complex filter requirements such as Calculating Sales for Profitable Months. 
+This is because one needs to evaluate the profit measure in order to eliminate months with loss or that didn't achieve profit.
+Also, the value function returns a column table that contains the distinct values from the specified table or column (Monthname) 
+
+Sales for Profitable Months = 
+CALCULATE(
+    [TotalSales],
+    FILTER(
+        VALUES('Calendar'[MonthName]),
+        [Profit] > 0)
+    )
+
+Therefore, Sales for months with a loss would then be [Profit] < 0 which is equivalent to negative value
+
+If you find it useful, kindly #follow, #like, #share and #comment. 
+
+#Tool: #Microsoft #PowerBI
+
+#LinkedIn: https://lnkd.in/dJzSUWQF
+
+#Twitter: https://lnkd.in/dfPx-c3a
+
+#MicrosoftExcel #microsoftazure #microsoftpowerbi #microsoft #googleanalytics #dataanalytics #datacamp #dataarchitect #powerquery

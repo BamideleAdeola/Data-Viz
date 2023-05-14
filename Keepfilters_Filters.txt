@@ -1,0 +1,40 @@
+#KeepFilters & #Filter in #Calculate #DAX #Function 
+
+Calculate and Calculatetable are very important #Dax functions that helps to write calculations which remove or 
+add filters or even modify relationship paths. This is possible by passing in filter arguments, 
+which are either Boolean expressions, table expressions, or special filter functions. 
+
+I would be looking at the Table and Boolean expression here.
+
+My intention here is to calculate Small Box Container sales by using a table expression: (FILTER)
+
+Small Box Container Sales Filter = 
+CALCULATE(
+    [Sales],
+    FILTER(Orders, 'Orders'[Product Container] = "Small Box")
+)
+
+
+While the above returned a correct value, it would have been better achieved much more efficiently using a Boolean expression. (KEEPFILTERS)
+
+Small Box Container Sales Keepfilters = 
+CALCULATE(
+    [Sales],
+    KEEPFILTERS('Orders'[Product Container] = "Small Box")
+)
+
+Note the following: 
+1. That it returned the correct result does not mean it is the efficient measure.
+2. Try as much as possible to pass filter arguments as Boolean expressions for best performance.
+3. For more complex filter requirements, use table expressions.
+4. Using the default filter in Calculate and placing it in a product container table returns Small Box sales across the containers.
+
+If you find it useful, kindly #follow, #like, #share and #comment. 
+
+#Tool: #Microsoft #PowerBI
+
+#LinkedIn: https://lnkd.in/dJzSUWQF
+
+#Twitter: https://lnkd.in/dfPx-c3a
+
+#MicrosoftExcel #microsoftazure #microsoftpowerbi #microsoft #googleanalytics #dataanalytics #datacamp #dataarchitect #powerquery

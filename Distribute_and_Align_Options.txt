@@ -1,0 +1,23 @@
+#Distribute and #align option in #Power BI
+
+Alignment in Power BI refers to the placement and arrangement of visual components inside a report or dashboard. 
+It contributes to the organization and aesthetic attractiveness of the visualizations and other components.
+
+The distribute and align options allow you to select multiple visualizations or objects by holding the Shift key and clicking on each item. 
+Click on format tab and choose the "Align" or "Distribute" option from the context menu.
+
+The Align option allows you to align the selected objects horizontally or vertically, ensuring they are evenly spaced.
+The Distribute option helps you distribute the selected objects evenly along a horizontal or vertical axis.
+
+If you find it useful, kindly #follow, #like, #share and #comment. 
+
+#youtube #Video: https://youtu.be/q_xrRBrKrQs
+
+#Tool: #Microsoft #PowerBI
+
+#LinkedIn: https://lnkd.in/dJzSUWQF
+
+#instagram: https://www.instagram.com/delumba/
+
+
+#MicrosoftExcel #microsoftazure #microsoftpowerbi #microsoft #googleanalytics #dataanalytics #datacamp #dataarchitect #powerquery

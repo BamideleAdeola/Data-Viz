@@ -1,0 +1,17 @@
+Do you know that the foundation of Microsoft Fabric is a #lakehouse? Of course, this is also built on top of #OneLake (just like your regular #OneDrive) scalable storage layer and it uses #apachespark and #SQL #compute engines for #big #data #processing. Find below a sample walkthrough of how to create and ingest data with a #Microsoft #Fabric #Lakehouse. 
+
+#like, #share, #comment and you can also #follow for more.
+
+#Tool: #Microsoft #Fabric 
+
+#LinkedIn: https://lnkd.in/dJzSUWQF
+
+#instagram: https://www.instagram.com/delumba/
+
+#MicrosoftExcel #microsoftazure #microsoftpowerbi #microsoft #lakehouse #Datalake #azuredatabricks #googleanalytics #dataanalytics #datacamp #dataarchitect #powerquery #SQL #apachespark 
+
+#Youtube: https://youtu.be/KehNMmjwi54
+
+
+
+Microsoft Fabric - Lakehouse (A sample Walkthrough)

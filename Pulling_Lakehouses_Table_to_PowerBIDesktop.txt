@@ -1,0 +1,18 @@
+#Pulling #Lakehouses table to #PowerBI #Desktop
+The OneLake data hub makes it easy to find, explore, and use the Fabric data items in your organization that you have access to.
+It provides information about the items and entry points for working with them.
+With the Power BI Onelake data hub tab, you can now connect to your Microsoft power bi service lakehouses.
+
+#like, #share, #comment and you can also #follow for more.
+
+#Tool: #Microsoft #PowerBI 
+
+#LinkedIn: https://lnkd.in/dJzSUWQF
+
+#instagram: https://www.instagram.com/delumba/
+
+#MicrosoftExcel #microsoftazure #microsoftpowerbi #microsoft #lakehouse #Datalake #azuredatabricks #googleanalytics #dataanalytics #datacamp #dataarchitect #powerquery #SQL #apachespark 
+
+#Youtube: https://youtu.be/-u09yXeyRpw
+
+
